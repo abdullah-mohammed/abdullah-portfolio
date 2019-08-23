@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css?family=Karla&display=swap');
+
+.ResumeSection {
+    background-color: #bdc5ff;
+    margin-top: -10px;
+    font-family: 'Karla', sans-serif;
+}
+
+.resumeTitle {
+    padding-top: 30px;
+    font-weight: bold;
+    text-align: center;
+    font-size: larger;
+}
+
+.boldedResumeTitle {
+    font-weight: bold;
+    border-bottom: 1px solid #787fb3;
+}
+
+.logoIcon {
+    width: 100px;
+    height: 100px;
+    margin-left: -95px;
+    float: left;
+    margin-top: -20px;
+}
+
+.rightSection {
+    float: right;
+}
+
+.logoIconRounded {
+    width: 80px;
+    height: 80px;
+    margin-left: -95px;
+    float: left;
+    margin-top: -20px;
+    border-radius: 50%;
+}

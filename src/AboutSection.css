@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Karla&display=swap');
+
+.AboutSection .lead {
+    text-align: center;
+}
+
+.AboutSection {
+    background-color: aliceblue;
+    padding-bottom: 90px;
+}
+
+.aboutSubtext {
+    font-family: 'Karla', sans-serif;
+}
+
+span.boldedText {
+    font-weight: bold;
+}
+
+.boldedTitle {
+    text-align: center;
+    font-weight: bold;
+    font-size: larger;
+}
+
+.profilePicFormatting {
+    border-radius: 50%;
+    float: right;
+    width: 200px;
+    height: 200px;
+}
+
