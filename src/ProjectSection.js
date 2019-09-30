@@ -13,10 +13,7 @@ const ProjectSection = () => {
             <br></br>
             <div className="container row mx-auto justify-content-center">
                 <div className="card mt-2" style={{width: '23rem'}}>
-                    <a target="_blank" href="https://www.mailboxmap.com/">
                         <img className="card-img-top" src={USPSMailbox} alt="USPS Mailbox"/>
-                    </a>
-
                         <div className="card-body">
                             <p className="card-text">
                                 <b>Mailbox Map </b>
