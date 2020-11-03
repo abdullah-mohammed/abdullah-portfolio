@@ -15,7 +15,7 @@ const ResumeSection = () => {
                 <p>
                     <b>University of California Davis</b><span className="rightSection"><i>Graduating 2021</i></span>
                     <br></br>
-                    <i>Computer Science, B.S, Junior Standing</i>
+                    <i>Computer Science, B.S, Senior Standing</i>
                     <br></br>
                     <br></br>
                     Relevant Coursework:
