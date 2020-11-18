@@ -27,6 +27,8 @@ const ResumeSection = () => {
                     <li>Software Development and Object Oriented Programming</li>
                     <li>Programming and Problem Solving</li>
                     <li>Computer Organization and Machine Dependant Programming</li>
+                    <li>Database Systems</li>
+                    <li>Operating Systems</li>
                 </ul>
 
                 <br></br>

@@ -26,7 +26,7 @@ const AboutSection = () => {
                         <a target="_blank" href="mailto:aimohammed@ucdavis.edu"> aimohammed@ucdavis.edu</a>
                     </p>
                     <p><span className="boldedText">Resume:</span>
-                        <a target="_blank" href="https://drive.google.com/file/d/1P9u-YOPV7Uk-6BN7pjtEHJK5OKa0EoB1/view?usp=sharing"> My Resume</a>
+                        <a target="_blank" href="https://drive.google.com/file/d/1MlvQ6sOAeCa0z6-NsxaP_3y9ZfmW62gD/view?usp=sharing"> My Resume</a>
                     </p>
                     <p><span className="boldedText">Linkedin: </span>
                         <a target="_blank" href="https://www.linkedin.com/in/abdullah-mohammed-547b25176/">Linkedin</a>
